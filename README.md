@@ -1,1 +1,1 @@
-#Terminal coloring library
+# Terminal coloring library
